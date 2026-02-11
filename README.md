@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Sai Akshaya 
+## Hi there 👋 It's me Sai Akshaya  
 
 **Full Stack Developer | MERN Stack | React • Node • MongoDB**
 
@@ -10,7 +10,7 @@
 - 🛠️ Experience with REST APIs, JWT authentication, and scalable applications  
 - 📫 Reach me at: saiakshaya2003@gmail.com  
 
-### 🌐 Connect with me
+### 🌐 Connect with me  
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saiakshaya-r/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Sai2003hub)
@@ -18,37 +18,33 @@
 
 ---
 
-### 💻 I code in
+### 💻 I code in  
 
-<p>
-  <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img height="50" src="https://img.icons8.com/fluency/48/000000/express-js.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/fastapi.png"/>
-</p>
+<img height="50" src="https://img.icons8.com/color/48/000000/python.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+<img height="50" src="https://img.icons8.com/fluency/48/000000/express-js.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/000000/fastapi.png"/>
 
 ---
 
-### 🔧 IDE & Tools I Use
+### 🔧 IDE & Tools I Use  
 
-<p>
-  <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/postman-api.png"/>
-  <img height="50" src="https://img.icons8.com/color/480/null/figma--v1.png"/>
-  <img height="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img height="50" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-</p>
+<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+<img height="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/000000/postman-api.png"/> 
+<img height="50" src="https://img.icons8.com/color/480/null/figma--v1.png"/> 
+<img height="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> 
+<img height="50" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 ![Sai Akshaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai2003hub&theme=dark&show_icons=true&hide=issues,contribs)
 
