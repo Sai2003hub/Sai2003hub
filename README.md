@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Sai Akshaya 
 
-**Full Stack Developer | MERN Stack | B.Tech IT**
+**Full Stack Developer | MERN Stack | React • Node • MongoDB**
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
